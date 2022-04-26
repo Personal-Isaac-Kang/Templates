@@ -1,0 +1,1 @@
+train_method = 'default' # dist : Use distributed train method (DDP)
